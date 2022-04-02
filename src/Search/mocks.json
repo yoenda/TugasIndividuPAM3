@@ -1,0 +1,32 @@
+[
+  {
+    "price": "Rp. 413.000",
+    "airport": "Jakarta-Palembang",
+    "time": "Mar 2022",
+    "airline": "Lion"
+  },
+  {
+    "price": "Rp. 453.000",
+    "airport": "Jakarta-Palembang",
+    "time": "Mar 2022",
+    "airline": "Super Air Jet"
+  },
+  {
+    "price": "Rp. 572.000",
+    "airport": "Jakarta-Palembang",
+    "time": "Mar 2022",
+    "airline": "Citilink"
+  },
+  {
+    "price": "Rp. 563.000",
+    "airport": "Jakarta-Palembang",
+    "time": "Mar 2022",
+    "airline": "Batik"
+  },
+  {
+    "price": "Rp. 805.000",
+    "airport": "Jakarta-Palembang",
+    "time": "Mar 2022",
+    "airline": "Garuda"
+  }
+]
